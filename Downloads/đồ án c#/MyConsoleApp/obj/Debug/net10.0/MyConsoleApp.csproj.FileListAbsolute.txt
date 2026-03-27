@@ -1,0 +1,15 @@
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\WIN\Downloads\đồ án c#\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
